@@ -52,6 +52,9 @@ http://tinyurl.com/bbvel23
 * __MAT2377__, Mahmoud Zarepour  
 * __ADM1340__, Philip McIlkennya 
 * __ADM2320__, David Delcorde    
+* __ITI1121__, Marcel Turcotte 
+* __PHY2323__, Michel Godin    
+* __PSY1102__, Najwa Haddad    
 
 ## Funding
 

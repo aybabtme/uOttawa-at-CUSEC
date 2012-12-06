@@ -34,6 +34,9 @@ prof_course = {
   # "Mahmoud Zarepour" => ["zarepour@uottawa.ca", "MAT2377"],
   # "Philip McIlkenny" => ["mcilkenny@telfer.uOttawa.ca", "ADM1340"],
   # "David Delcorde" => ["delcorde@telfer.uOttawa.ca", "ADM2320"]
+  # "Marcel Turcotte" => ["turcotte@eecs.uottawa.ca", "ITI1121"],
+  # "Michel Godin" => ["michel.godin@uottawa.ca", "PHY2323"],
+  # "Najwa Haddad" => ["nhaddad@uottawa.ca", "PSY1102"]
 }
 
 email_config = ParseConfig.new('email.conf').params

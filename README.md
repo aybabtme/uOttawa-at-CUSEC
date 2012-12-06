@@ -4,6 +4,18 @@
 
 Buy your tickets before December 10 (2012) to get up to 100%* refund.
 
+### How to?
+During the exam period, the STE4026 is often closed. 
+
+You still want your spot at CUSEC reserved? Easy.
+
+1. Print this form:
+http://tinyurl.com/bbvel23
+2. Fill it.
+3. Fill a CHEQUE of 180$ at the name of "IEEE uOttawa Student Branch". Stick it to the form (with tape please).
+4. Drop it under the door of STE4026.
+5. Win! You're registered. I'll send you an email to confirm I got your registration.
+
 \* Percentage varies depending on quantity of students buying tickets.  For a table of expected refunds, [click here][1].
 
 \** To do your own verification, edit [this script][2] that I used.

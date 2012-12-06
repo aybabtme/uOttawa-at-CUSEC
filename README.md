@@ -48,6 +48,9 @@ http://tinyurl.com/bbvel23
     * Answered: _Thanks for informing me. I will take this into account_
 * __CSI2532__, Fadi Malek
     * Amswered: _Bonjour Antoine, tu m'enverras la liste en Janvier svp!_
+* __MAT2377__, Mahmoud Zarepour  
+* __ADM1340__, Philip McIlkennya 
+* __ADM2320__, David Delcorde    
 
 ## Funding
 

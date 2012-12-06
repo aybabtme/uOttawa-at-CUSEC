@@ -41,6 +41,7 @@ http://tinyurl.com/bbvel23
 * __CSI4106__, Rafael Falcon
 * __ELG2136__, Emad Gad 
 * __ECO1102__, Claude Théoret
+    * Answered: _Thanks for the information._
 * __CSI2120__, Omar Badreddin
     * Answered: _I acknowledge your email. Thank you. Please send me the list of participating students once the registration period closes._
 * __CSI2501__, Nejib Zaguia 

@@ -14,7 +14,7 @@ BUS_SEATS = 48
 SEATS_FOR_LUGGAGE = 4
 
 def hotel_cost(student_count)
-  room_count = student_count / STUDENT_PER_ROOM
+  room_count = (student_count.to_f / STUDENT_PER_ROOM.to_f).ceil
   if NOT_MIXED_ROOM then
     room_count += 1
   end

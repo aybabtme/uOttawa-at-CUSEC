@@ -28,6 +28,7 @@ http://tinyurl.com/bbvel23
 * __SEG4145__, Dan Ionescu
 * __CEG4190__, Dimitrios Makrakis
 * __SEG2106__, Gregor v. Bochmann
+   * Answered: _OK, no problem._
 * __SEG/CEG/ELG2911__, Timothy Lethbridge
    * Answered: _I will end the class at 18:15 that day, and will tell people I want them to come. [...] at the same time, part of the deal is that they should come from 4 to 6:15._
 * __MAT2377__, Karelyn Davis

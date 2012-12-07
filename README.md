@@ -38,6 +38,7 @@ http://tinyurl.com/bbvel23
 * __SEG4910__, Liam Peyton
 * __CSI4106__, Rafael Falcon
 * __ELG2136__, Emad Gad 
+    * Answered: _Dear Antoine, I fully understand your concerns and will be happy to offer support to the students in the best possible way._
 * __ECO1102__, Claude Théoret
     * Answered: _Thanks for the information._
 * __CSI2120__, Omar Badreddin

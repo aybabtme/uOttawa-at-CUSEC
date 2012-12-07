@@ -16,9 +16,6 @@ http://tinyurl.com/bbvel23
 4. Drop it under the door of STE4026.
 5. Win! You're registered. I'll send you an email to confirm I got your registration.
 
-\* Percentage varies depending on quantity of students buying tickets.  For a table of expected refunds, [click here][1].
-
-\** To do your own verification, edit [this script][2] that I used.
 
 [1]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/cost_table.md
 [2]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/scripts/cost_per_student.rb
@@ -28,6 +25,7 @@ http://tinyurl.com/bbvel23
 * __SEG4145__, Dan Ionescu
 * __CEG4190__, Dimitrios Makrakis
 * __SEG2106__, Gregor v. Bochmann
+   * Answered: _OK, no problem._
 * __SEG/CEG/ELG2911__, Timothy Lethbridge
    * Answered: _I will end the class at 18:15 that day, and will tell people I want them to come. [...] at the same time, part of the deal is that they should come from 4 to 6:15._
 * __MAT2377__, Karelyn Davis
@@ -40,6 +38,7 @@ http://tinyurl.com/bbvel23
 * __SEG4910__, Liam Peyton
 * __CSI4106__, Rafael Falcon
 * __ELG2136__, Emad Gad 
+    * Answered: _Dear Antoine, I fully understand your concerns and will be happy to offer support to the students in the best possible way._
 * __ECO1102__, Claude Théoret
     * Answered: _Thanks for the information._
 * __CSI2120__, Omar Badreddin
@@ -53,7 +52,8 @@ http://tinyurl.com/bbvel23
 * __ADM1340__, Philip McIlkennya 
 * __ADM2320__, David Delcorde    
 * __ITI1121__, Marcel Turcotte 
-* __PHY2323__, Michel Godin    
+* __PHY2323__, Michel Godin
+    * Answered: _Thanks for the note.  I'll try not to schedule any test or quizzes on these dates.  As for assignments, I'll try to remember not to make the deadline on these dates.  However, perhaps you should encourage the students involved to remind me in case they have trouble meeting deadlines.  I'm fine with being flexible about this. Thanks for letting me know ahead of time._
 * __PSY1102__, Najwa Haddad    
 
 ## Funding
@@ -67,6 +67,11 @@ http://tinyurl.com/bbvel23
 
 * Draft motion: [here][8]
 * Accepted motion: [here][9]
+
+
+\* Percentage varies depending on quantity of students buying tickets.  For a table of expected refunds, [click here][1].
+
+\** To do your own verification, edit [this script][2] that I used.
 
 [3]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/funding/EEF.md
 [4]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/funding/EEF_Form.pdf

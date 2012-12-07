@@ -37,6 +37,7 @@ http://tinyurl.com/bbvel23
 * __PHY2723__, Christian Gigault
 * __SEG4910__, Liam Peyton
 * __CSI4106__, Rafael Falcon
+    * Answered: _It is encouraging to hear that some of my students will be representing U of Ottawa at CUSEC. If you could please provide a list of who are actually attending the conference, that will be greatly appreciated. Rest assured that during that week there will be no form of evaluation for my course in order to ensure enough peace of mind for the attendees. I wish you all the best leading the delegation from our university._
 * __ELG2136__, Emad Gad 
     * Answered: _Dear Antoine, I fully understand your concerns and will be happy to offer support to the students in the best possible way._
 * __ECO1102__, Claude Théoret

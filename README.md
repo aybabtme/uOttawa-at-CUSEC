@@ -16,9 +16,6 @@ http://tinyurl.com/bbvel23
 4. Drop it under the door of STE4026.
 5. Win! You're registered. I'll send you an email to confirm I got your registration.
 
-\* Percentage varies depending on quantity of students buying tickets.  For a table of expected refunds, [click here][1].
-
-\** To do your own verification, edit [this script][2] that I used.
 
 [1]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/cost_table.md
 [2]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/scripts/cost_per_student.rb
@@ -69,6 +66,11 @@ http://tinyurl.com/bbvel23
 
 * Draft motion: [here][8]
 * Accepted motion: [here][9]
+
+
+\* Percentage varies depending on quantity of students buying tickets.  For a table of expected refunds, [click here][1].
+
+\** To do your own verification, edit [this script][2] that I used.
 
 [3]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/funding/EEF.md
 [4]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/funding/EEF_Form.pdf

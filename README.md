@@ -55,6 +55,10 @@ http://tinyurl.com/bbvel23
 * __PHY2323__, Michel Godin
     * Answered: _Thanks for the note.  I'll try not to schedule any test or quizzes on these dates.  As for assignments, I'll try to remember not to make the deadline on these dates.  However, perhaps you should encourage the students involved to remind me in case they have trouble meeting deadlines.  I'm fine with being flexible about this. Thanks for letting me know ahead of time._
 * __PSY1102__, Najwa Haddad    
+* __SEG3155__, Jiying Zhao             
+* __CSI3140__, Iluju Kiringa           
+* __CSI3131__, Ivan Stojmenovic        
+* __SEG3125__, Abdulmotaleb El Saddik
 
 ## Funding
 

@@ -60,9 +60,10 @@ http://tinyurl.com/bbvel23
     * Answered: _Thank you for letting me know. There will be no midterms or assignments scheduled for that period of time._
 * __SEG3155__, Jiying Zhao             
 * __CSI3140__, Iluju Kiringa
-    * Amswered: _That is fine with me!_
+    * Answered: _That is fine with me!_
 * __CSI3131__, Ivan Stojmenovic        
 * __SEG3125__, Abdulmotaleb El Saddik
+    * Answered: _Dear Antoine, students have my full support when it comes to such activities. I wish you and our uOttawa delegation to CUSEC 2013 great conference._
 
 ## Funding
 

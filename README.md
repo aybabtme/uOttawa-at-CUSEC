@@ -31,6 +31,7 @@ http://tinyurl.com/bbvel23
 * __MAT2377__, Karelyn Davis
 * __CSI2101 and CSI2132__, Herna Viktor
 * __ITI1500__, Ahmed Kharmouch
+    * Answered: _Thank you for letting me know. I have informed the faculty and it shouldn't be a problem to accommodate the students that are attending the event. Will talk about this in the class._ 
 * __MAT2777__, Mountassir M'Hammed
 * __MAT1748__, Joseph Khoury 
 * __PHI2794__, Matthew McLennan

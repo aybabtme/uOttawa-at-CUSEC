@@ -2,19 +2,29 @@
 
 ## UPDATES
 
-Buy your tickets before December 10 (2012) to get up to 100%* refund.
+<del>Buy your tickets before December 10 (2012) to get up to 100%* refund.</del>
+We've used all of our funds in our pre-December 10 sales!  I'll try to get more, 
+but if you buy your ticket in the mean time, assume that there will be no reimbursement!
+
+If you bought your ticket on or before December 10, you will get a reimbursement.  The amount
+of said reimbursement has yet to be computer, and will be redistributed after the conference.
 
 ### How to?
-During the exam period, the STE4026 is often closed. 
+During the off-class period, the IEEE office at STE4026 is more often than not closed. 
 
 You still want your spot at CUSEC reserved? Easy.
 
-1. Print this form:
+* Print this form:
 http://tinyurl.com/bbvel23
-2. Fill it.
-3. Fill a CHEQUE of 180$ at the name of "IEEE uOttawa Student Branch". Stick it to the form (with tape please).
-4. Drop it under the door of STE4026.
-5. Win! You're registered. I'll send you an email to confirm I got your registration.
+* Fill it.
+* Fill a CHEQUE of __198$__ at the name of "IEEE uOttawa Student Branch". Stick it to the form (with tape please).
+* Drop it under the door of STE4026.
+* Win! You're registered. I'll send you an email to confirm I got your registration, whenever I come by the
+office and grab it!
+
+> _"Wooo, I thought it was 180$ !!"_ 
+
+That was before Dec 10, sorry.  The price is 60$ for the ticket and 120$ + tax for the hotel!
 
 
 [1]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/cost_table.md

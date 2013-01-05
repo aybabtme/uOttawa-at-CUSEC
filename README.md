@@ -45,6 +45,7 @@ That was before Dec 10, sorry.  The price is 60$ for the ticket and 120$ + tax f
 * __MAT2777__, Mountassir M'Hammed
 * __MAT1748__, Joseph Khoury 
 * __PHI2794__, Matthew McLennan
+    * Answered: _Happy new year, and my apologies for the long delay in replying to your message. I've scheduled no tests or assignments for the period in question._
 * __PHY2723__, Christian Gigault
     * Answered: _No problem!_
 * __SEG4910__, Liam Peyton

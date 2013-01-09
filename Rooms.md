@@ -30,9 +30,9 @@
 
 ## 5
 
+* Jordan  Bussanich
 * Adrian  Ramcharitar
 * Matthew Graham
-* Samuel  El-Hage
 * Jesus   Zambrano
 
 ##6
@@ -65,7 +65,7 @@
 
 ## 10
 
-* Jordan  Bussanich
+* Samuel  El-Hage
 * Charles Malo
 * Mike    Wakim
 * Behzad  Raesifard

@@ -12,6 +12,21 @@
 
 Because I want everybody to be awesome.  The more I'm surrounded by awesome people, the more awesome I'll become myself.
 
+## Schedule
+
+* Jan 11, last day to get a refund if you wish so.  After that, sorry can't do (had to pay for your bus/ticket/hotel already).
+* Jan 16, 18h45: board the bus!  [Here (map)][14]
+* 19h00: the bus LEAVES with or without you! Be there _on time_!
+    * The bus is PACKED!  Don't bring a ton of luggages, we have limited room under the bus for luggages.  If you brought too much stuff, you'll have to ride with it on your knees.
+* Jan 16, 21h00: ETA Delta Downtown, Montreal.  
+    * I'll sign the rooms and hand out the keys.  I'll get you guys to sign a small paper saying you'll pay for whatever you destroy in the room (otherwise it's my credit card... I won't appreciate it.)
+* Jan 19, 7h00: get your stuff out of the rooms, bring it downstair and they'll keep it somewhere safe for the day.  Give me back your keys.
+* Jan 19, 17h00: conference is over.
+* Jan 19, 19h00: take the bus back to Ottawa!
+* Jan 19, 21h00: ETA Ottawa
+
+[14]: http://goo.gl/maps/JAFjD
+
 ## How to Prepare for the Career Fair
 
 ### Preparing your resume
@@ -37,12 +52,13 @@ Also, do search what the sponsors are all about.  For instance, _Shopify_ are an
 [10]: http://2013.cusec.net/resume-roast/
 [11]: http://2013.cusec.net/sponsors/
 
-### Specific tips for specific companies
 
 ### Preparing for interviews
-#### or just for the questions they'll ask you at the booth
 
-An [excellent book][9] you should own so that you pwn technical interviews. Or this website (related to the book).
+An [excellent book][13] you should own so that you pwn technical interviews. Or [this website][12] (related to the book).
+
+
+### Specific tips
 
 * __Shopify__ are looking for people with experience in web development and _Ruby, Rails_ and Javascript/Coffeescript and other things around this planet.  _Doug Tezner_, their Head of Aquisition, will be there and he said:
 
@@ -52,7 +68,7 @@ An [excellent book][9] you should own so that you pwn technical interviews. Or t
 
 * __Google__ sent us all a beautiful email about how to apply for their stuff.  Do it, and send an email to _Amy Yeung_ (`her_name_without_spaces@google.com`).
 
-[9]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
+[13]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
 [12]: http://www.careercup.com/page
 
 ## Courses and Prof that I __already__ have contacted

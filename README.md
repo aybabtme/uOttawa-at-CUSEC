@@ -60,7 +60,7 @@ An [excellent book][13] you should own so that you pwn technical interviews. Or 
 
 ### Specific tips
 
-* __Shopify__ are looking for people with experience in web development and _Ruby, Rails_ and Javascript/Coffeescript and other things around this planet.  _Doug Tezner_, their Head of Aquisition, will be there and he said:
+* __Shopify__ are looking for people with experience in web development and _Ruby, Rails_ and Javascript/Coffeescript and other things around this planet.  _Doug Tezner_, their Head of Talent Aquisition, will be there and he said:
 
 > I will actually be doing a talk on this very subject (the hiring process, do's and don'ts etc).
 >

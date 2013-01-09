@@ -5,8 +5,11 @@
 * We're SOLD OUT!  Well, not really _sold out_, you can still buy tickets if you want but our bus is full so you'll have to travel by yourself!  Sorry about that (YOU'RE TOO LATE!)
 * Checkout the __rooms layout__ [here][1].  If you're not happy with it, let me know!  Otherwise you'll be free to shuffle your things if you feel like it.
 * Résumééééssss : prepare them!  I said I might prepare a blog post to brief you on how to prepare for each jobs.  I didn't have time to do it, and really it's not that complicate, look bellow for a brief explanation of the very basic.
+* "I'm first year, should I go to CUSEC?": [WHY NOT!?][123421]
+
 
 [1]: https://github.com/aybabtme/uOttawa-at-CUSEC/blob/master/Rooms.md
+[123421]: http://www.aybabt.me/blog/2013/01/09/cusec-but-im-first-year/
 
 ## Why are you doing all this?
 

@@ -2,33 +2,58 @@
 
 ## UPDATES
 
-<del>Buy your tickets before December 10 (2012) to get up to 100%* refund.</del>
-We've used all of our funds in our pre-December 10 sales!  I'll try to get more, 
-but if you buy your ticket in the mean time, assume that there will be no reimbursement!
+* We're SOLD OUT!  Well, not really _sold out_, you can still buy tickets if you want but our bus is full so you'll have to travel by yourself!  Sorry about that (YOU'RE TOO LATE!)
+* Checkout the __rooms layout__ [here][1].  If you're not happy with it, let me know!  Otherwise you'll be free to shuffle your things if you feel like it.
+* Résumééééssss : prepare them!  I said I might prepare a blog post to brief you on how to prepare for each jobs.  I didn't have time to do it, and really it's not that complicate, look bellow for a brief explanation of the very basic.
 
-If you bought your ticket on or before December 10, you will get a reimbursement.  The amount
-of said reimbursement has yet to be computer, and will be redistributed after the conference.
+[1]: https://github.com/aybabtme/uOttawa-at-CUSEC/blob/master/Rooms.md
 
-### How to?
-During the off-class period, the IEEE office at STE4026 is more often than not closed. 
+## Why are you doing all this?
 
-You still want your spot at CUSEC reserved? Easy.
+Because I want everybody to be awesome.  The more I'm surrounded by awesome people, the more awesome I'll become myself.
 
-* Print this form:
-http://tinyurl.com/bbvel23
-* Fill it.
-* Fill a CHEQUE of __198$__ at the name of "IEEE uOttawa Student Branch". Stick it to the form (with tape please).
-* Drop it under the door of STE4026.
-* Win! You're registered. I'll send you an email to confirm I got your registration, whenever I come by the
-office and grab it!
+## How to Prepare for the Career Fair
 
-> _"Wooo, I thought it was 180$ !!"_ 
+### Preparing your resume
+One thing you __should__ do is register for the _Resume Roast_ thingy, [here][10].  Why is that?  What is that?
 
-That was before Dec 10, sorry.  The price is 60$ for the ticket and 120$ + tax for the hotel!
+#### What ?
+You submit your resume ahead of time (like ASAP, your resume should be ready by now anyway).  Then at CUSEC, there will be this _Resume Roast_ thingy where recruiters will destroy your resume in front of an audience.  Now you're like "I don't want to be humiliated in front of everybody" and I'll say _you won't_.  It's a game, but you're the winner in this. Why?
 
+#### Why ?
 
-[1]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/cost_table.md
-[2]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/scripts/cost_per_student.rb
+1. First, those recruiters will ask you questions when they'll analyze your resume, so they'll incidently get to know you more than they would get to know random people showing up at their booth.
+2. Second, _they will fix your resume for you_, so that all you need to do after that is to take that fixed resume, and use it!  And win!
+3. Finally, participating in this kind of stuff shows that you _care_, and recruiters want people who care.
+
+### Knowing the basics
+
+The sponsors are all listed [here][11].  Their logos, when you click on them, point on their _jobs_ page.  So just browse those page and look for the kind of job you want (full-time/internships).
+
+Once you've identified the jobs they offer, you might be like "Operations, what's that?? _<insert title>_, what's that??".  Google is your friend!  Do the search, because when you'll go to their booth and give them your résumé, they'll ask you for which position you're interested.  If you have no clue about what _<insert title>_ means, you'll look like a moron.
+
+Also, do search what the sponsors are all about.  For instance, _Shopify_ are an e-commerce platform and they look for Rails developer, mostly.  You should know that before you go to their booth.
+
+[10]: http://2013.cusec.net/resume-roast/
+[11]: http://2013.cusec.net/sponsors/
+
+### Specific tips for specific companies
+
+### Preparing for interviews
+#### or just for the questions they'll ask you at the booth
+
+An [excellent book][9] you should own so that you pwn technical interviews. Or this website (related to the book).
+
+* __Shopify__ are looking for people with experience in web development and _Ruby, Rails_ and Javascript/Coffeescript and other things around this planet.  _Doug Tezner_, their Head of Aquisition, will be there and he said:
+
+> I will actually be doing a talk on this very subject (the hiring process, do's and don'ts etc).
+>
+> We are really big on personal coding projects and not that big on CV's.  I always like when students can talk/show an app they have built themselves, outside of school or work…
+
+* __Google__ sent us all a beautiful email about how to apply for their stuff.  Do it, and send an email to _Amy Yeung_ (`her_name_without_spaces@google.com`).
+
+[9]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
+[12]: http://www.careercup.com/page
 
 ## Courses and Prof that I __already__ have contacted
 
@@ -94,10 +119,10 @@ That was before Dec 10, sorry.  The price is 60$ for the ticket and 120$ + tax f
 
 \** To do your own verification, edit [this script][2] that I used.
 
-[3]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/funding/EEF.md
-[4]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/funding/EEF_Form.pdf
-[5]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/funding/EEF_Results_CUSEC.pdf
-[6]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/funding/EEF_Results_(Dean)_CUSEC.pdf
-[7]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/funding/eef_presentation.pdf
-[8]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/faculty_council_motion/draft_motion.md
-[9]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/politics/faculty_council_motion/2012-04FacultyCouncilMinutes-Oct16.pdf
+[3]: https://github.com/aybabtme/uOttawa-at-CUSEC/blob/master/politics/funding/EEF.md
+[4]: https://github.com/aybabtme/uOttawa-at-CUSEC/blob/master/politics/funding/EEF_Form.pdf
+[5]: https://github.com/aybabtme/uOttawa-at-CUSEC/blob/master/politics/funding/EEF_Results_CUSEC.pdf
+[6]: https://github.com/aybabtme/uOttawa-at-CUSEC/blob/master/politics/funding/EEF_Results_(Dean)_CUSEC.pdf
+[7]: https://github.com/aybabtme/uOttawa-at-CUSEC/blob/master/politics/funding/eef_presentation.pdf
+[8]: https://github.com/aybabtme/uOttawa-at-CUSEC/blob/master/politics/faculty_council_motion/draft_motion.md
+[9]: https://github.com/aybabtme/uOttawa-at-CUSEC/blob/master/politics/faculty_council_motion/2012-04FacultyCouncilMinutes-Oct16.pdf

@@ -18,6 +18,7 @@ def hotel_cost(student_count)
   if NOT_MIXED_ROOM then
     room_count += 1
   end
+  puts "Room count #{room_count}"
   (ROOM_COST * room_count).round(2)
 end
 

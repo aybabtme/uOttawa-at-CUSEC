@@ -45,7 +45,7 @@ You submit your resume ahead of time (like ASAP, your resume should be ready by 
 
 The sponsors are all listed [here][11].  Their logos, when you click on them, point on their _jobs_ page.  So just browse those page and look for the kind of job you want (full-time/internships).
 
-Once you've identified the jobs they offer, you might be like "Operations, what's that?? _<insert title>_, what's that??".  Google is your friend!  Do the search, because when you'll go to their booth and give them your résumé, they'll ask you for which position you're interested.  If you have no clue about what _<insert title>_ means, you'll look like a moron.
+Once you've identified the jobs they offer, you might be like "Operations, what's that?? _\<insert title\>_, what's that??".  Google is your friend!  Do the search, because when you'll go to their booth and give them your résumé, they'll ask you for which position you're interested.  If you have no clue about what _<insert title>_ means, you'll look like a moron.
 
 Also, do search what the sponsors are all about.  For instance, _Shopify_ are an e-commerce platform and they look for Rails developer, mostly.  You should know that before you go to their booth.
 

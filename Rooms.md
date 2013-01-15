@@ -5,14 +5,14 @@
 * Emilie  Lavigne
 * Lianne  Sit
 * Allyshia    Sewdat
-* Meagan  Budgell
+* Carol-Ann   Renaud
 
 ## 2
 
 * Bowen   Cheng
 * Yusi    Fan
 * Lin Chen
-* <maybe an additional dude>
+* LiangNan Dong
 
 ## 3
 
@@ -30,7 +30,7 @@
 
 ## 5
 
-* Jordan  Bussanich
+* <empty>
 * Adrian  Ramcharitar
 * Matthew Graham
 * Jesus   Zambrano
@@ -76,8 +76,3 @@
 * Maher   Manoubi
 * Manuel  Belmadani
 * Adnan   Patel
-
-## 12
-
-* Carol-Ann   Renaud
-<three free spots, girls room>

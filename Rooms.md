@@ -17,8 +17,8 @@
 ## 3
 712
 * Dylan   Lee
-* Griff   George
-* Arcand  Jeffrey
+* __out__ Griff   George
+* __out__ Arcand  Jeffrey
 * Jean-Luc    Martin
 
 ## 4
@@ -59,7 +59,7 @@
 ## 9
 707
 * Yasser  Ghamlouch
-* Tonga   Ozyolcular
+* Tolga   Ozyolcular
 * Elie    Tawil
 * __out__ Arash   Marzi
 
@@ -74,5 +74,5 @@
 703
 * __out__ Trung   Do
 * Maher   Manoubi
-* Manuel  Belmadani
+* __out__ Manuel  Belmadani
 * Adnan   Patel

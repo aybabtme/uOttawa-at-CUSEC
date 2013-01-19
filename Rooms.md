@@ -2,10 +2,10 @@
 
 ## 1
 705
-* Emilie  Lavigne
-* Lianne  Sit
-* Allyshia    Sewdat
-* Carol-Ann   Renaud
+* __out__ Emilie  Lavigne
+* __out__ Lianne  Sit
+* __out__ Allyshia    Sewdat
+* __out__ Carol-Ann   Renaud
 
 ## 2
 714

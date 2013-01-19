@@ -25,7 +25,7 @@
 708
 * __out__ Jacqueline  Do
 * __out__ Maryam  Alshehab
-* Boury   Mbodj
+* __out__ Boury   Mbodj
 * __out__ Stephanie   Zeidan
 
 ## 5
@@ -58,7 +58,7 @@
 
 ## 9
 707
-* Yasser  Ghamlouch
+* __out__ Yasser  Ghamlouch
 * __out__ Tolga   Ozyolcular
 * __out__ Elie    Tawil
 * __out__ Arash   Marzi

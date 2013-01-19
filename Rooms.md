@@ -1,28 +1,28 @@
 # Rooms!!!
 
 ## 1
-
+705
 * Emilie  Lavigne
 * Lianne  Sit
 * Allyshia    Sewdat
 * Meagan  Budgell
 
 ## 2
-
+714
 * Bowen   Cheng
 * Yusi    Fan
 * Lin Chen
 * <maybe an additional dude>
 
 ## 3
-
+712
 * Dylan   Lee
 * Griff   George
 * Arcand  Jeffrey
 * Jean-Luc    Martin
 
 ## 4
-
+708
 * Jacqueline  Do
 * Maryam  Alshehab
 * Boury   Mbodj
@@ -36,7 +36,7 @@
 * Jesus   Zambrano
 
 ##6
- 
+713 
 * Janac   Meenachisundaram
 * Mohammed    Chamma
 * Adnan   Khan
@@ -50,14 +50,14 @@
 * Maxime  Paradis
 
 ## 8 
-
+704
 * Khaled  Alissa
 * Andréas Kaytar-LeFrançois
 * Mohammed    Raei
 * Jonathan    Smith
 
 ## 9
-
+707
 * Yasser  Ghamlouch
 * Tonga   Ozyolcular
 * Elie    Tawil
@@ -71,7 +71,7 @@
 * Behzad  Raesifard
  
 ## 11
-
+703
 * Trung   Do
 * Maher   Manoubi
 * Manuel  Belmadani

@@ -9,41 +9,41 @@ require 'parseconfig'
 
 # profs, those commented out have already been contacted
 prof_course = {
-  # "Dan Ionescu" => ["ionescu@site.uottawa.ca", "SEG4145"],
-  # "Dimitrios Makrakis" => ["dimitris@site.uottawa.ca", "CEG4190"],
-  # "Gregor v. Bochmann" => ["bochmann@eecs.uottawa.ca", "SEG2106"],
-  # "Timothy Lethbridge" => ["tcl@eecs.uottawa.ca", "SEG/CEG/ELG2911"],
-  # "Karelyn Davis" => ["kdavi6@uOttawa.ca", "MAT2377"],
-  # "Herna Viktor" => ["hlviktor@eecs.uottawa.ca", "CSI2101 and CSI2132"],
-  # "Ahmed Kharmouch" => ["karmouch@site.uottawa.ca", "ITI1500"],
-  # "Mountassir M'Hammed" => ["mmountas@uOttawa.ca", "MAT2777"],
-  # "Joseph Khoury" => ["jkhoury@uottawa.ca", "MAT1748"],
-  # "Matthew McLennan" => ["mmcle020@uOttawa.ca", "PHI2794"],
-  # "Christian Gigault" => ["cgigault@uOttawa.ca", "PHY2723"],
-  # "Liam Peyton" => ["lpeyton@site.uottawa.ca", "SEG4910"],
-  # "Liam Peyton" => ["lpeyton@uottawa.ca", "SEG4910"],
-  # "Rafael Falcon" => ["rfalcon@uottawa.ca", "CSI4106"],
-  # "Emad Gad" => ["egad@eecs.uottawa.ca", "ELG2136"],
-  # "Claude Théoret" => ["ctheoret@uottawa.ca", "ECO1102"],
-  # "Omar Badreddin" => ["obadr024@uottawa.ca", "CSI2120"],
-  # "Omar Badreddin" => ["oobahy@gmail.com", "CSI2120"],
-  # "Nejib Zaguia" => ["zaguia@site.uottawa.ca", "CSI2501"],
-  # "Robert Laganière" => ["laganier@eecs.uottawa.ca", "CSI2520"],
-  # "Fadi Malek" => ["malek@site.uottawa.ca", "CSI2532"],
-  # "Fadi Malek" => ["FADI.MALEK@forces.gc.ca", "CSI2532"],
-  # "Mahmoud Zarepour" => ["zarepour@uottawa.ca", "MAT2377"],
-  # "Philip McIlkenny" => ["mcilkenny@telfer.uOttawa.ca", "ADM1340"],
-  # "David Delcorde" => ["delcorde@telfer.uOttawa.ca", "ADM2320"]
-  # "Marcel Turcotte" => ["turcotte@eecs.uottawa.ca", "ITI1121"],
-  # "Michel Godin" => ["michel.godin@uottawa.ca", "PHY2323"],
-  # "Najwa Haddad" => ["nhaddad@uottawa.ca", "PSY1102"]
-  # "Jiying Zhao" => ["jyzhao@eecs.uottawa.ca","SEG3155"],
-  # "Iluju Kiringa" => ["kiringa@site.uottawa.ca", "CSI3140"],
-  # "Ivan Stojmenovic" => ["ivan@site.uottawa.ca", "CSI3131"],
-  # "Abdulmotaleb El Saddik" => ["elsaddik@uottawa.ca", "SEG3125"]
-  # "Peter Piercy" => ["PIERCY@uottawa.ca", "PHY 1124"],
-  # "Nevena Francetic" => ["nfrancet@uOttawa.ca", "MAT1348"],
-  # "Miguel A. Garzón Torres" => ["mgarz042@uottawa.ca", "ITI1521"],
+  "Dan Ionescu" => ["ionescu@site.uottawa.ca", "SEG4145"],
+  "Dimitrios Makrakis" => ["dimitris@site.uottawa.ca", "CEG4190"],
+  "Gregor v. Bochmann" => ["bochmann@eecs.uottawa.ca", "SEG2106"],
+  "Timothy Lethbridge" => ["tcl@eecs.uottawa.ca", "SEG/CEG/ELG2911"],
+  "Karelyn Davis" => ["kdavi6@uOttawa.ca", "MAT2377"],
+  "Herna Viktor" => ["hlviktor@eecs.uottawa.ca", "CSI2101 and CSI2132"],
+  "Ahmed Kharmouch" => ["karmouch@site.uottawa.ca", "ITI1500"],
+  "Mountassir M'Hammed" => ["mmountas@uOttawa.ca", "MAT2777"],
+  "Joseph Khoury" => ["jkhoury@uottawa.ca", "MAT1748"],
+  "Matthew McLennan" => ["mmcle020@uOttawa.ca", "PHI2794"],
+  "Christian Gigault" => ["cgigault@uOttawa.ca", "PHY2723"],
+  "Liam Peyton" => ["lpeyton@site.uottawa.ca", "SEG4910"],
+  "Liam Peyton" => ["lpeyton@uottawa.ca", "SEG4910"],
+  "Rafael Falcon" => ["rfalcon@uottawa.ca", "CSI4106"],
+  "Emad Gad" => ["egad@eecs.uottawa.ca", "ELG2136"],
+  "Claude Théoret" => ["ctheoret@uottawa.ca", "ECO1102"],
+  "Omar Badreddin" => ["obadr024@uottawa.ca", "CSI2120"],
+  "Omar Badreddin" => ["oobahy@gmail.com", "CSI2120"],
+  "Nejib Zaguia" => ["zaguia@site.uottawa.ca", "CSI2501"],
+  "Robert Laganière" => ["laganier@eecs.uottawa.ca", "CSI2520"],
+  "Fadi Malek" => ["malek@site.uottawa.ca", "CSI2532"],
+  "Fadi Malek" => ["FADI.MALEK@forces.gc.ca", "CSI2532"],
+  "Mahmoud Zarepour" => ["zarepour@uottawa.ca", "MAT2377"],
+  "Philip McIlkenny" => ["mcilkenny@telfer.uOttawa.ca", "ADM1340"],
+  "David Delcorde" => ["delcorde@telfer.uOttawa.ca", "ADM2320"],
+  "Marcel Turcotte" => ["turcotte@eecs.uottawa.ca", "ITI1121"],
+  "Michel Godin" => ["michel.godin@uottawa.ca", "PHY2323"],
+  "Najwa Haddad" => ["nhaddad@uottawa.ca", "PSY1102"],
+  "Jiying Zhao" => ["jyzhao@eecs.uottawa.ca","SEG3155"],
+  "Iluju Kiringa" => ["kiringa@site.uottawa.ca", "CSI3140"],
+  "Ivan Stojmenovic" => ["ivan@site.uottawa.ca", "CSI3131"],
+  "Abdulmotaleb El Saddik" => ["elsaddik@uottawa.ca", "SEG3125"],
+  "Peter Piercy" => ["PIERCY@uottawa.ca", "PHY 1124"],
+  "Nevena Francetic" => ["nfrancet@uOttawa.ca", "MAT1348"],
+  "Miguel A. Garzón Torres" => ["mgarz042@uottawa.ca", "ITI1521"],
 }
 
 email_config = ParseConfig.new('email.conf').params
@@ -58,20 +58,62 @@ def get_email_body(from, name, email, course)
   text = <<-eos
 From: #{from}
 To: #{email}
-subject: #{course}, some students will be absent
+subject: Reminder: students at CUSEC from Jan 16-19
 Date: #{Time.now.rfc2822}
 
 Dear prof #{name},
 
-I am contacting you because some students of your #{course} class will be attending a conference from *January 16, 19h* until *January 19*.
+I would like to thank you for your support to our delegation at CUSEC (Canadian University Software Engineering Conference) this year.  We are bringing a record delegation of 46 students, more than any other university so far, and more than doubling our previous effort.
 
-As you may know, uOttawa will be sending a large delegation of students to CUSEC this year.  CUSEC is a conference for students in fields related to computing.
+The purpose of this email is to remind you that the following students will be gone to the conference from January 16 (19h00) until January 19 (~21h00).  The following list contains students from your course #{course}. I do not have a per-course break-down, unfortunately.
 
-*I would kindly ask if you could support student attendance to this conference by avoiding  tests, quizzes, assignments or other form of evaluation on those dates.*  This would greatly relieve students as they seek professional and personal development while attending this conference.
-
-The delegation is funded by the Faculty of Engineering's and the Engineering Student Society's endowment funds.  The Faculty (of Engineering) Council also passed a motion this Fall supporting students attendance to such conferences.
-
-Thanks for your time, and please let me know if you have any inquiries regarding the conference or the absence of students. If you would like to have a list of students who will miss your class, let me know and I will send you one.  However, please note that registrations are still open, so the list may change.
+* Andréas Kaytar-LeFrançois
+* Alexandra Phillips
+* Antoine Grondin
+* Khaled Alissa
+* Dylan Lee
+* Yusi Fan
+* Arcand Jeffrey
+* Stephanie Zeidan
+* Bowen Cheng
+* Emilie Lavigne
+* Allyshia Sewdat
+* Lianne Sit
+* Maryam Alshehab
+* Nicolas Primeau
+* Elie Tawil
+* Jacqueline Do
+* Arash Marzi
+* Janac Meenachisundaram
+* Yasser Ghamlouch
+* Tonga Ozyolcular
+* Matthew Graham
+* Adrian Ramcharitar
+* Samira El-Rayyes
+* Mohammed Chamma
+* Griff George
+* Mohammed Raei
+* Lin Chen
+* Boury Mbodj
+* Samuel El-Hage
+* Colette Jourbane
+* Jean-Luc Martin
+* Jean-Philippe Dubé
+* Jesus Zambrano
+* Jonathan Smith
+* Adnan Khan
+* Mark Tamer
+* Maxime Paradis
+* Trung Do
+* Maher Manoubi
+* Manuel Belmadani
+* Adnan Patel
+* Christopher Poirier
+* Charles Malo
+* Mike Wakim
+* Behzad Raesifard
+* Carol-Ann Renaud
+* Liang Nan Dong
 
 Cheers,
 

@@ -9,10 +9,10 @@
 
 ## 2
 714
-* Bowen   Cheng __out__
-* Yusi    Fan __out__
-* Lin Chen __out__
-* LiangNan Dong __out__
+* __out__ Bowen   Cheng
+* __out__ Yusi    Fan
+* __out__ Lin Chen
+* __out__ LiangNan Dong
 
 ## 3
 712

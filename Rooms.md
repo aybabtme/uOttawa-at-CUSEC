@@ -23,10 +23,10 @@
 
 ## 4
 708
-* Jacqueline  Do
+* __out__ Jacqueline  Do
 * Maryam  Alshehab
 * Boury   Mbodj
-* Stephanie   Zeidan
+* __out__ Stephanie   Zeidan
 
 ## 5
 
@@ -37,10 +37,10 @@
 
 ##6
 713 
-* Janac   Meenachisundaram
-* Mohammed    Chamma
-* Adnan   Khan
-* Mark    Tamer
+* __out__ Janac   Meenachisundaram
+* __out__ Mohammed    Chamma
+* __out__ Adnan   Khan
+* __out__ Mark    Tamer
 
 ## 7
 
@@ -51,7 +51,7 @@
 
 ## 8 
 704
-* Khaled  Alissa
+* __out__ Khaled  Alissa
 * Andréas Kaytar-LeFrançois
 * Mohammed    Raei
 * Jonathan    Smith
@@ -61,7 +61,7 @@
 * Yasser  Ghamlouch
 * Tonga   Ozyolcular
 * Elie    Tawil
-* Arash   Marzi
+* __out__ Arash   Marzi
 
 ## 10
 
@@ -72,7 +72,7 @@
  
 ## 11
 703
-* Trung   Do
+* __out__ Trung   Do
 * Maher   Manoubi
 * Manuel  Belmadani
 * Adnan   Patel

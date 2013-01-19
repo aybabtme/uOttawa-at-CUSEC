@@ -24,7 +24,7 @@
 ## 4
 708
 * __out__ Jacqueline  Do
-* Maryam  Alshehab
+* __out__ Maryam  Alshehab
 * Boury   Mbodj
 * __out__ Stephanie   Zeidan
 
@@ -44,35 +44,35 @@
 
 ## 7
 
-* Christopher Poirier
-* Nicolas Primeau
+* __out__ Christopher Poirier
+* __out__ Nicolas Primeau
 * Jean-Philippe   Dubé
 * Maxime  Paradis
 
 ## 8 
 704
 * __out__ Khaled  Alissa
-* Andréas Kaytar-LeFrançois
-* Mohammed    Raei
-* Jonathan    Smith
+* __out__ Andréas Kaytar-LeFrançois
+* __out__ Mohammed    Raei
+* __out__ Jonathan    Smith
 
 ## 9
 707
 * Yasser  Ghamlouch
-* Tolga   Ozyolcular
-* Elie    Tawil
+* __out__ Tolga   Ozyolcular
+* __out__ Elie    Tawil
 * __out__ Arash   Marzi
 
 ## 10
 
-* Samuel  El-Hage
-* Charles Malo
-* Mike    Wakim
-* Behzad  Raesifard
+* __out__ Samuel  El-Hage
+* __out__ Charles Malo
+* __out__ Mike    Wakim
+* __out__ Behzad  Raesifard
  
 ## 11
 703
 * __out__ Trung   Do
-* Maher   Manoubi
+* __out__ Maher   Manoubi
 * __out__ Manuel  Belmadani
 * Adnan   Patel

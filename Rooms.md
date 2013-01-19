@@ -46,8 +46,8 @@
 
 * __out__ Christopher Poirier
 * __out__ Nicolas Primeau
-* Jean-Philippe   Dubé
-* Maxime  Paradis
+* __out__ Jean-Philippe   Dubé
+* __out__ Maxime  Paradis
 
 ## 8 
 704

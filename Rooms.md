@@ -31,9 +31,9 @@
 ## 5
 
 * <empty>
-* Adrian  Ramcharitar
-* Matthew Graham
-* Jesus   Zambrano
+* __out__ Adrian  Ramcharitar
+* __out__ Matthew Graham
+* __out__ Jesus   Zambrano
 
 ##6
 713 

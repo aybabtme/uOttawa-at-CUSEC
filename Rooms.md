@@ -19,7 +19,7 @@
 * Dylan   Lee
 * __out__ Griff   George
 * __out__ Arcand  Jeffrey
-* Jean-Luc    Martin
+* __out__ Jean-Luc    Martin
 
 ## 4
 708
